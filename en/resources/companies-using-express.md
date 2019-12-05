@@ -12,6 +12,9 @@ redirect_from: "/resources/companies-using-express.html"
     <a target="_new" class="imagelink" href="http://www.accenture.com/">
       <img alt="accenture" class="memberlogo" src="/images/companies/accenture-logo.png" />
     </a>
+    <a target="_new" class="imagelink" href="https://www.britwise.com">
+      <img alt="britwise" class="memberlogo" src="https://www.britwise.com/assets/imgs/logo.png"/>
+    </a>
     <a target="_new" class="imagelink" href="https://dentisphere.com/">
       <img alt="Dentisphere" class="memberlogo" src="/images/companies/denti-sphere-logo.png" />
     </a>
